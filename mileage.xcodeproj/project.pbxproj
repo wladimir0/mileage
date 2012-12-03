@@ -17,6 +17,7 @@
 		C3D61E6B166C2FB0005A31BA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3D61E4B166C2FAF005A31BA /* Cocoa.framework */; };
 		C3D61E73166C2FB0005A31BA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C3D61E71166C2FB0005A31BA /* InfoPlist.strings */; };
 		C3D61E76166C2FB0005A31BA /* mileageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C3D61E75166C2FB0005A31BA /* mileageTests.m */; };
+		C3D61E80166C3782005A31BA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C3D61E7F166C3782005A31BA /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C3D61E72166C2FB0005A31BA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C3D61E74166C2FB0005A31BA /* mileageTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mileageTests.h; sourceTree = "<group>"; };
 		C3D61E75166C2FB0005A31BA /* mileageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mileageTests.m; sourceTree = "<group>"; };
+		C3D61E7F166C3782005A31BA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				C3D61E5E166C2FAF005A31BA /* AppDelegate.m */,
 				C3D61E60166C2FB0005A31BA /* MainMenu.xib */,
 				C3D61E52166C2FAF005A31BA /* Supporting Files */,
+				C3D61E7F166C3782005A31BA /* README.md */,
 			);
 			path = mileage;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				C3D61E56166C2FAF005A31BA /* InfoPlist.strings in Resources */,
 				C3D61E5C166C2FAF005A31BA /* Credits.rtf in Resources */,
 				C3D61E62166C2FB0005A31BA /* MainMenu.xib in Resources */,
+				C3D61E80166C3782005A31BA /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
